@@ -18,7 +18,7 @@ end
 
 def id_hash_generator(number)
   hash_new = {
-    id: #{number}
+    id: 
   }
   }
 end
