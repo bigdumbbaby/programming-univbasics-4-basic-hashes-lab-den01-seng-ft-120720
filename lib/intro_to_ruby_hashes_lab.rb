@@ -17,6 +17,7 @@ end
 
 
 def id_hash_generator(number)
-  hash_new = {}
-  hash[:id] = number
+  hash_new = {
+    id: number
+  }
 end
