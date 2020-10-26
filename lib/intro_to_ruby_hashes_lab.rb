@@ -11,7 +11,7 @@ end
 
 def pioneer
   hash_new = {
-    key: "Grace Hopper"
+    name: "Grace Hopper"
   }
 end
 
