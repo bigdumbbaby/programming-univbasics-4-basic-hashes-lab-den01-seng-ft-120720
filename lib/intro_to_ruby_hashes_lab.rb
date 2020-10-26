@@ -4,7 +4,7 @@ end
 
 def my_hash
   hash_new = {
-    :name = 1,
+    name: 1,
     :num = 3
   }
 end
