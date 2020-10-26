@@ -5,7 +5,7 @@ end
 def my_hash
   hash_new = {
     name: "Colton",
-    num: = 3
+    num: 3
   }
 end
 
